@@ -17,7 +17,7 @@ table, th, td {
   display: grid;
   grid-template-columns: 0.25fr 10px 0.75fr;
   grid-template-rows: auto 20px auto 20px auto 20px auto;
-  background: #f2f2f2;
+  background-image: url("pictures/IMG_0879.png");
   height: 800px;
 }
 
